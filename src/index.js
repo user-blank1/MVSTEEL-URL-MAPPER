@@ -38,6 +38,10 @@ const URL_MAP = {
     "/nerudijantis-plienas/nerudijancio-plieno-viela/": "/lt/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
     "/en/stainless-steel/stainless-steel-wire/": "/en/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
     "/ru/нержавеющая-сталь/проволока-из-нержавеющей-стали/": "/ru/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
+    "/nerudijantis-plienas/nerudijancio-plieno-uzdaromoji-armatura/": "/lt/products/stainless-steel/all?view=grid&category=stainless-steel-industry-fittings",
+    "/en/stainless-steel/stainless-steel-fittings-for-food-and-chemical-industry/":
+        "/en/products/stainless-steel/all?view=grid&category=stainless-steel-industry-fittings",
+    "/ru/нержавеющая-сталь/пищевая-арматура/": "/ru/products/stainless-steel/all?view=grid&category=stainless-steel-industry-fittings",
 };
 
 export default {
