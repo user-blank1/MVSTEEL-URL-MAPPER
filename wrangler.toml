@@ -1,0 +1,8 @@
+name = "url-mapper"
+main = "src/index.js"
+compatibility_date = "2026-01-14"
+
+account_id = "91ce1deb36ef72317d3d2a2a49663a86"
+
+[env.production]
+name = "url-mapper"
