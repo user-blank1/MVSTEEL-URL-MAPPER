@@ -32,6 +32,9 @@ const URL_MAP = {
     "/en/stainless-steel/stainless-steel-railing-systems-and-fittings/":
         "/en/products/stainless-steel/all?category=stainless-steel-railing-connection-fittings",
     "/ru/нержавеющая-сталь/комплектующие-для-ограждений/": "/ru/products/stainless-steel/all?category=stainless-steel-railing-connection-fittings",
+    "/nerudijantis-plienas/nerudijancio-plieno-vamzdziai/": "/lt/products/stainless-steel/all?category=stainless-steel-tubes",
+    "/en/stainless-steel/stainless-steel-tubes/": "/en/products/stainless-steel/all?category=stainless-steel-tubes",
+    "/ru/нержавеющая-сталь/трубы-из-нержавеющей-стали/": "/ru/products/stainless-steel/all?category=stainless-steel-tubes",
 };
 
 export default {
