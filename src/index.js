@@ -35,6 +35,9 @@ const URL_MAP = {
     "/nerudijantis-plienas/nerudijancio-plieno-vamzdziai/": "/lt/products/stainless-steel/all?category=stainless-steel-tubes",
     "/en/stainless-steel/stainless-steel-tubes/": "/en/products/stainless-steel/all?category=stainless-steel-tubes",
     "/ru/нержавеющая-сталь/трубы-из-нержавеющей-стали/": "/ru/products/stainless-steel/all?category=stainless-steel-tubes",
+    "/nerudijantis-plienas/nerudijancio-plieno-viela/": "/lt/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
+    "/en/stainless-steel/stainless-steel-wire/": "/en/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
+    "/ru/нержавеющая-сталь/проволока-из-нержавеющей-стали/": "/ru/products/stainless-steel/all?view=grid&category=stainless-steel-wires",
 };
 
 export default {
